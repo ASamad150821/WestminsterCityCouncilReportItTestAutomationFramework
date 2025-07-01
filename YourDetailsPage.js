@@ -1,4 +1,4 @@
-class YoueDetailsPage
+class YourDetailsPage
 {
 
     selectYes()
@@ -44,4 +44,4 @@ class YoueDetailsPage
 
 }
 
-export default YoueDetailsPage
+export default YourDetailsPage
