@@ -1,5 +1,5 @@
 # ReportItTestAutomationFramework
-This is a test automation framework built for the Westminster City Council for the “Report It – Street Vendors” application. 
+This is a test automation framework built using Cypress and Javascript for the Westminster City Council for the “Report It – Street Vendors” application. 
 
 The framework includes tests such as users being able to successfully report issues inside of the application, as well as validation tests around entering correct details to complete the form correctly.
 
